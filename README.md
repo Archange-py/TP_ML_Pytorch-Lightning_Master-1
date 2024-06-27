@@ -5,7 +5,7 @@
 # TP of Machine Learning with Pytorch Lightning for Master 1
 
 ###
-Welcome ! This directory contains [Laurent Risser](http://laurent.risser.free.fr)'s practical exercises, originally written in pytorch, which have been implemented in pytorch lightning with python. 
+Welcome ! This directory contains [Laurent Risser](http://laurent.risser.free.fr)'s practical exercises, originally written in pytorch, which I have been implemented in pytorch lightning with python. 
 They are the result of work carried out during the second week of the Seconde course, at IMT (Institut de Mathématiques de Toulouse). 
 
 ## Table of Contents
